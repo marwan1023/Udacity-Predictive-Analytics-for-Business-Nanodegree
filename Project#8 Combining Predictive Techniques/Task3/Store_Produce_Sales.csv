@@ -1,0 +1,117 @@
+Date,Name,Value,DateTime
+2016-1,Forecast_sales_existing_stores,21829060.031666,2016-01-01
+2016-1,"Forecast_Sales_new_Stores ",2588356.558187,2016-01-01
+2016-10,Forecast_sales_existing_stores,20086270.462075,2016-10-01
+2016-10,"Forecast_Sales_new_Stores ",2485732.284852,2016-10-01
+2016-11,Forecast_sales_existing_stores,20858119.957540,2016-11-01
+2016-11,"Forecast_Sales_new_Stores ",2583447.593735,2016-11-01
+2016-12,Forecast_sales_existing_stores,21255190.244976,2016-12-01
+2016-12,"Forecast_Sales_new_Stores ",2562181.699980,2016-12-01
+2016-2,Forecast_sales_existing_stores,21146329.631982,2016-02-01
+2016-2,"Forecast_Sales_new_Stores ",2498567.174382,2016-02-01
+2016-3,Forecast_sales_existing_stores,23735686.938790,2016-03-01
+2016-3,"Forecast_Sales_new_Stores ",2919067.024801,2016-03-01
+2016-4,Forecast_sales_existing_stores,22409515.284474,2016-04-01
+2016-4,"Forecast_Sales_new_Stores ",2797280.082984,2016-04-01
+2016-5,Forecast_sales_existing_stores,25621828.725097,2016-05-01
+2016-5,"Forecast_Sales_new_Stores ",3163764.859191,2016-05-01
+2016-6,Forecast_sales_existing_stores,26307858.040046,2016-06-01
+2016-6,"Forecast_Sales_new_Stores ",3202813.288678,2016-06-01
+2016-7,Forecast_sales_existing_stores,26705092.556349,2016-07-01
+2016-7,"Forecast_Sales_new_Stores ",3228212.242266,2016-07-01
+2016-8,Forecast_sales_existing_stores,23440761.329527,2016-08-01
+2016-8,"Forecast_Sales_new_Stores ",2868914.812082,2016-08-01
+2016-9,Forecast_sales_existing_stores,20640047.319971,2016-09-01
+2016-9,"Forecast_Sales_new_Stores ",2538372.266534,2016-09-01
+,Produse_Sales,25151525.840000,
+,Avg_Produce,10270.1208003267,
+,Produse_Sales,24406048.390000,
+,Avg_Produce,10297.9107130801,
+,Produse_Sales,28249539.010000,
+,Avg_Produce,11492.896261188,
+,Produse_Sales,28691364.320000,
+,Avg_Produce,11865.7420678246,
+,Produse_Sales,28535707.450000,
+,Avg_Produce,11364.2801473516,
+,Produse_Sales,25793520.640000,
+,Avg_Produce,10272.2105296694,
+,Produse_Sales,21915641.660000,
+,Avg_Produce,9018.78257613167,
+,Produse_Sales,21203562.520000,
+,Avg_Produce,8444.27021903623,
+,Produse_Sales,21736158.960000,
+,Avg_Produce,8944.92138271605,
+,Produse_Sales,21962976.750000,
+,Avg_Produce,9038.26203703704,
+,Produse_Sales,20322683.640000,
+,Avg_Produce,7994.76146341464,
+,Produse_Sales,19829620.750000,
+,Avg_Produce,8636.59440331011,
+,Produse_Sales,22717069.850000,
+,Avg_Produce,8936.69152242331,
+,Produse_Sales,21625385.040000,
+,Avg_Produce,8790.80692682928,
+,Produse_Sales,23000152.400000,
+,Avg_Produce,8987.94544744039,
+,Produse_Sales,24755406.200000,
+,Avg_Produce,9941.9302008032,
+,Produse_Sales,26803105.560000,
+,Avg_Produce,10417.0639564711,
+,Produse_Sales,22600217.010000,
+,Avg_Produce,8783.6055227361,
+,Produse_Sales,21401265.740000,
+,Avg_Produce,8574.22505608972,
+,Produse_Sales,19296578.090000,
+,Avg_Produce,7410.36024961597,
+,Produse_Sales,20489773.490000,
+,Avg_Produce,8134.09030964669,
+,Produse_Sales,21715706.670000,
+,Avg_Produce,8525.99398115426,
+,Produse_Sales,22544458.380000,
+,Avg_Produce,8555.7716812144,
+,Produse_Sales,21262413.120000,
+,Avg_Produce,8650.29012205045,
+,Produse_Sales,23247168.620000,
+,Avg_Produce,8927.48410906298,
+,Produse_Sales,22541987.920000,
+,Avg_Produce,8945.23330158732,
+,Produse_Sales,25943046.750000,
+,Avg_Produce,9962.76756912439,
+,Produse_Sales,24782178.430000,
+,Avg_Produce,9830.29687822292,
+,Produse_Sales,24263117.590000,
+,Avg_Produce,9335.55890342441,
+,Produse_Sales,21879988.860000,
+,Avg_Produce,8428.34701848999,
+,Produse_Sales,18407263.580000,
+,Avg_Produce,7392.47533333334,
+,Produse_Sales,19497571.950000,
+,Avg_Produce,7577.75823940925,
+,Produse_Sales,19444753.170000,
+,Avg_Produce,7809.1378192771,
+,Produse_Sales,19240384.750000,
+,Avg_Produce,7727.06214859436,
+,Produse_Sales,20088529.290000,
+,Avg_Produce,7623.73028083492,
+,Produse_Sales,19772333.340000,
+,Avg_Produce,8311.19518284996,
+,Produse_Sales,24608406.710000,
+,Avg_Produce,9339.05377988616,
+,Produse_Sales,21559729.450000,
+,Avg_Produce,8454.7958627451,
+,Produse_Sales,25792074.590000,
+,Avg_Produce,9795.69866691988,
+,Produse_Sales,27212464.150000,
+,Avg_Produce,10675.741133778,
+,Produse_Sales,26338477.150000,
+,Avg_Produce,9995.62700189754,
+,Produse_Sales,23130626.600000,
+,Avg_Produce,8781.55907365222,
+,Produse_Sales,20774415.930000,
+,Avg_Produce,8150.02586504511,
+,Produse_Sales,20359980.580000,
+,Avg_Produce,7729.6813135915,
+,Produse_Sales,21936906.810000,
+,Avg_Produce,8602.70855294118,
+,Produse_Sales,20462899.300000,
+,Avg_Produce,8024.66639215685,
