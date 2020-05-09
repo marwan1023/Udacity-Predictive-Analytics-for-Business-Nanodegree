@@ -33,5 +33,5 @@ Segmentation and Clustering are effective methods for finding patterns in your d
 
 - Project: [Combine Predictive Techniques](https://github.com/marwan1023/Udacity-Predictive-Analytics-for-Business-/tree/master/Project%236%20Forecast-video-game-sales-answer/Practice%20Project%20Forecast%20Video%20Game%20Sales.ipynb)
 
-![Udacity Predictive Analytics for Business Nanodegree](https://drive.google.com/file/d/1up87aQOCe6QXJ0iIRlMiM6gfbC882gDZ/view?usp=sharing)
+![Udacity Predictive Analytics for Business Nanodegree](https://drive.google.com/file/d/1aGPZnBdkxEEV0Ch8kBF8UsczOhTf3gMI/view?usp=sharing)
 
