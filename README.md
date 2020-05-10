@@ -8,7 +8,7 @@ This repository contains projects for Udacity's [Predictive Analytics for Busine
 
 Learn a structured framework for solving problems with advanced analytics. Learn to select the most appropriate analytical methodology. Also was introduced both Linear Regression and Multiple Linear Regression.
 
-- Project: [Predict Sales for a Catalog Launch](https://github.com/marwan1023/Udacity-Predictive-Analytics-for-Business-/tree/master/Project%231%20Predicting%20Diamond%20Prices.ipynb)
+- Project: [Predict Sales for a Catalog Launch](https://github.com/marwan1023/Udacity-Predictive-Analytics-for-Business-/tree/master/Project%231%20Predicting%20Diamond%20Prices)
 
 ### Part 2: Data Wrangling
 Data Wrangling is at the core of all data activity. In this course you learn how to work with different data types,dirty data, and outliers. You will also learn how to reformat data and join data from different sources together.
